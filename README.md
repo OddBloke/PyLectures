@@ -9,7 +9,7 @@ These materials were originally concieved of and used to conduct a 4 weekend lec
  * Download the notebooks for the corresponding day from the provided links (top right of NBViewer page)
  * Open the downloaded notebook in Jupyter
 3. If you are on Linux
- * Launce Jupyter by writing in terminal: jupyter notebook
+ * Launch Jupyter by writing in terminal: jupyter notebook
  * Download the notebooks for the corresponding day from the provided links (top right of NBViewer page)
  * Open the downloaded notebook in Jupyter
 
