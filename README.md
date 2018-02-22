@@ -17,6 +17,7 @@ These materials were originally concieved of and used to conduct a 4 weekend lec
   * [Lesson 1](https://nbviewer.jupyter.org/github/xxTripleMxx/PyLectures/blob/master/Python%20Lesson%201.ipynb)
   * [Lesson 2](https://nbviewer.jupyter.org/github/xxTripleMxx/PyLectures/blob/master/Python%20Lesson%202.ipynb)
   * [Lesson 3](https://nbviewer.jupyter.org/github/xxTripleMxx/PyLectures/blob/master/Python%20Lesson%203.ipynb)
+  * [Netflix Tool](https://nbviewer.jupyter.org/github/xxTripleMxx/PyLectures/blob/master/Tool%20%231%20-%20Netflix%20Categories.ipynb)
 * Day 2:
 * Day 3:
 * Day 4:
