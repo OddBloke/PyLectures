@@ -3,6 +3,7 @@ These materials were originally concieved of and used to conduct a 4 weekend lec
 
 **Getting Started** 
 1. [Download Anaconda](https://www.anaconda.com/download)
+**If you can't download it ...***[Online IDE](https://trinket.io/python)
 2. If you are in Windows or Mac OS
  * Launch the Anaconda Navigator Application
  * Search for and launch Jupyter Notebooks in Anaconda
