@@ -21,4 +21,5 @@ These materials were originally concieved of and used to conduct a 4 weekend lec
   * [Netflix Tool](https://nbviewer.jupyter.org/github/xxTripleMxx/PyLectures/blob/master/Tool%20%231%20-%20Netflix%20Categories.ipynb)
 * Day 2:
 * Day 3:
+  * [Cleaning Data with Pandas](https://drive.google.com/file/d/1PKNhV9tx5LnuUB5sVLahg0Www_hOrch1/view?usp=sharing)
 * Day 4:
